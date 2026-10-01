@@ -5,9 +5,9 @@
 
 ### 🔗 Links
 
-- **License**: https://github.com/tobias-weiss-ai-xr/skeleton-research/blob/main/LICENSE
-- **CI**: https://github.com/<YOUR_ORG>/<YOUR_REPO>/actions/workflows/validate.yml
-- **GitHub Pages**: https://<YOUR_ORG>.github.io/<YOUR_REPO>/
+- **License**: https://github.com/tobias-weiss-ai-xr/lie-group-research/blob/main/LICENSE
+- **CI**: https://github.com/tobias-weiss-ai-xr/lie-group-research/actions/workflows/validate.yml
+- **GitHub Pages**: https://tobias-weiss-ai-xr.github.io/lie-group-research/
 
 
 > 📚 **Corpus:** 37 curated, auto-validated papers on Lie groups — every entry
